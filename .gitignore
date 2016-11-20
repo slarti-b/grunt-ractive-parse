@@ -3,3 +3,4 @@ npm-debug.log
 test/tmp
 
 /node_modules
+.idea/
